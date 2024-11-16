@@ -1,0 +1,90 @@
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.pdb
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.pdb
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.pdb
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.pdb
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\bin\Debug\net8.0\DAL.pdb
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.pdb
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\DAL\obj\Debug\net8.0\ref\DAL.dll

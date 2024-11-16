@@ -1,0 +1,525 @@
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.exe
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.deps.json
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.runtimeconfig.json
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.pdb
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\BAL.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\DAL.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\BAL.pdb
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\DAL.pdb
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.AssemblyReference.cache
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\App.g.cs
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp_MarkupCompile.cache
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp_MarkupCompile.lref
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\App.baml
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.g.resources
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.AssemblyInfoInputs.cache
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.AssemblyInfo.cs
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.CoreCompileInputs.cache
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.sourcelink.json
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.Up2Date
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\refint\CRUDApp.dll
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.pdb
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.genruntimeconfig.cache
+C:\FPT\PRN212\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\ref\CRUDApp.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\refint\CRUDApp.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.pdb
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.exe
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.deps.json
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.runtimeconfig.json
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.pdb
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\BAL.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\BAL.pdb
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\App.baml
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.g.resources
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.sourcelink.json
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.Up2Date
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\ref\CRUDApp.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.exe
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.deps.json
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.runtimeconfig.json
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.pdb
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\BAL.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\BAL.pdb
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.AssemblyReference.cache
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp_MarkupCompile.cache
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp_MarkupCompile.lref
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\App.baml
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.g.resources
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.AssemblyInfoInputs.cache
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.AssemblyInfo.cs
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.CoreCompileInputs.cache
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.sourcelink.json
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.Up2Date
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\refint\CRUDApp.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.pdb
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.genruntimeconfig.cache
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\ref\CRUDApp.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\Tactic.g.cs
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\Tactic.baml
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\DetailWindow.g.cs
+C:\Users\tuand\OneDrive\Desktop\PRN212_CRUD_Application (2)\PRN212_CRUD_Application (1)\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\DetailWindow.baml
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.exe
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.deps.json
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.runtimeconfig.json
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.pdb
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\BAL.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\DAL.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\BAL.pdb
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\DAL.pdb
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.AssemblyReference.cache
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\DetailWindow.g.cs
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\Tactic.g.cs
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\App.g.cs
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp_MarkupCompile.cache
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp_MarkupCompile.lref
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\App.baml
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\DetailWindow.baml
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\Tactic.baml
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.g.resources
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.AssemblyInfoInputs.cache
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.AssemblyInfo.cs
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.CoreCompileInputs.cache
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.sourcelink.json
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.Up2Date
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\refint\CRUDApp.dll
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.pdb
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.genruntimeconfig.cache
+C:\FPT\PRN212\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\ref\CRUDApp.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.exe
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.deps.json
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.runtimeconfig.json
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.pdb
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\BAL.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\BAL.pdb
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\DetailWindow.g.cs
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\Tactic.g.cs
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\App.baml
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\DetailWindow.baml
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\Tactic.baml
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.g.resources
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.sourcelink.json
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.Up2Date
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\refint\CRUDApp.dll
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.pdb
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\ref\CRUDApp.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.exe
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.deps.json
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.runtimeconfig.json
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\CRUDApp.pdb
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\BAL.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\DAL.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\BAL.pdb
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\bin\Debug\net8.0-windows\DAL.pdb
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.AssemblyReference.cache
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\DetailWindow.g.cs
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\Tactic.g.cs
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\App.g.cs
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp_MarkupCompile.cache
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp_MarkupCompile.lref
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\App.baml
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\DetailWindow.baml
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\Tactic.baml
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.g.resources
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.AssemblyInfoInputs.cache
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.AssemblyInfo.cs
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.CoreCompileInputs.cache
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.sourcelink.json
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.csproj.Up2Date
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\refint\CRUDApp.dll
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.pdb
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\CRUDApp.genruntimeconfig.cache
+C:\FPT5\NET\EPL-Management\EPL-Management\PRN212_CRUD_Application\AppAsm\CRUDApp\obj\Debug\net8.0-windows\ref\CRUDApp.dll
